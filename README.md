@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## I am a...
+Passionate student with experience in developing web applications integrating large language models, contributing to open-source AI applications, and managing full-stack projects.
 <!--
 **CertifiedJoon/CertifiedJoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
