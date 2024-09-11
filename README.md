@@ -1,5 +1,5 @@
 ## I am a...
-Driven penultimate student adept at harnessing AI to develop cutting-edge web applications, spearheading contributions to LLM open-source initiatives, and orchestrating successful full-stack social innovation projects. Eager to leverage the prowess of technology in creating lasting social impact.
+A software engineer who can Python, KDB+/Q, Java, Javascript/Typescrypt, ReactJS/NextJS, Django, and Spring Boot!
 <!--
 **CertifiedJoon/CertifiedJoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
