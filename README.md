@@ -1,5 +1,5 @@
 ## I am a...
-A software engineer who can Python, KDB+/Q, Java, Javascript/Typescrypt, ReactJS/NextJS, Django, and Spring Boot!
+A quant dev and software engineer who can Python, KDB+/Q, Java, Javascript/Typescrypt, ReactJS/NextJS, Django, and Spring Boot!
 <!--
 **CertifiedJoon/CertifiedJoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
